@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654737133 source:c:\users\jessica\dropbox\utn mar del plata\programacion1\estructuraspractica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
